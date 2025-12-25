@@ -35,7 +35,7 @@ Note: You can opt out of personalized tracking in your device settings.
 
 * Local Data: Game progress stored on your device can be deleted by uninstalling the app or clearing app data.
 
-* Request Deletion: If you wish to request the deletion of any data associated with your device ID that may be stored by our partners, please contact us at [Your Email].
+* Request Deletion: If you wish to request the deletion of any data associated with your device ID that may be stored by our partners, please contact us at gliderkrisomallos@gmail.com.
 
 5. Children’s Privacy Words Parlor is not intended for children under the age of 13. We do not knowingly collect personal information from children. If we discover that we have collected such information, we will delete it immediately.
 
